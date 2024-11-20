@@ -62,5 +62,5 @@ APP_USER=your_gradinet_email@example.com
 APP_PASS=your_gradinet_password
 ```
 4. save or copy that file to ```.env```
-5. python3 gradient.py
+5. Run ```python3 gradient.py```
 ## The Password was [HERE](https://t.me/+3NQanL5EQ2VkMDBl) 
